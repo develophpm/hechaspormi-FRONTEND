@@ -35,7 +35,7 @@ Crear archivo .env:
 VITE_API_URL=http://localhost:8080
 ```
 
-4. Instalar dependencias:
+4. Ejecutar servidor:
 
 ```bash
 npm run dev
