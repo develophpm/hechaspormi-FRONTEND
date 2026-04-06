@@ -30,8 +30,10 @@ npm install
 ```
 
 3. Configurar variables de entorno:
+```bash
 Crear archivo .env:
 VITE_API_URL=http://localhost:8080
+```
 
 4. Instalar dependencias:
 
@@ -42,6 +44,8 @@ npm run dev
 ---
 
 ## 📁 Estructura del proyecto
+
+```bash
 src/
 ├── components/
 ├── pages/
@@ -49,6 +53,7 @@ src/
 ├── hooks/
 ├── routes/
 └── assets/
+```
 
 ---
 
@@ -63,8 +68,7 @@ POST /orders
 ---
 
 ## 🚀 Despliegue
-El frontend se despliega en:
-Firebase Hosting
+El frontend se despliega en Firebase Hosting
 
 ---
 
